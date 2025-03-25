@@ -31,6 +31,7 @@ Bem-vindo ao **Festivite**! 🎊 Um projeto para criar convites digitais persona
 )
 
 ## 📌 Melhorias Futuras
+- 📱 Responsividade para todas as telas
 - 🔗 Compartilhamento direto via redes sociais e WhatsApp.
 - 🎟️ Geração de QR Code para facilitar o acesso ao convite.
 - 🎭 Mais temas para eventos personalizados.
